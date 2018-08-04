@@ -1,6 +1,6 @@
 [TOC]
 #  <center> Elasticsearch的实用介绍</center >
-![image](https://github.com/epguan/docs/image/es.png)
+![image](https://github.com/epguan/docs/raw/master/image/es.png)
 ## Elasticsearch 是什么？
 ### 简介
 Elasticsearch  是一个开源的搜索引擎，擅长海量数据处理和实时分析，建立在一个全文搜索引擎库 [Apache Lucene™](https://lucene.apache.org/core/) 基础之上。 Lucene  可以说是当下最先进、高性能、全功能的搜索引擎库--无论是开源还是私有。Elasticsearch的目的是使全文检索变得简单， 通过隐藏 Lucene  的复杂性，取而代之的提供一套简单一致的 RESTful API。
